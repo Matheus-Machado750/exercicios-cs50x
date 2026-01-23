@@ -47,3 +47,22 @@ O diretório `projeto-final/` reúne o **projeto final**, no qual diversos conce
 cs50/
 ├── week0/
 │   └── scratch_project/
+```
+
+##🛠 Tecnologias e linguagens utilizadas
+
+- C
+
+- Python
+
+- SQL
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- Flask
+
+- Git e GitHub
