@@ -66,3 +66,13 @@ cs50/
 - Flask
 
 - Git e GitHub
+
+## 📈 Progresso
+
+O repositório será atualizado semanalmente conforme o andamento do curso, refletindo:
+
+Novos exercícios resolvidos
+
+Melhorias em código existente
+
+Evolução na organização e arquitetura dos projetos
