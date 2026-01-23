@@ -49,7 +49,7 @@ cs50/
 │   └── scratch_project/
 ```
 
-##🛠 Tecnologias e linguagens utilizadas
+## 🛠 Tecnologias e linguagens utilizadas
 
 - C
 
@@ -71,8 +71,8 @@ cs50/
 
 O repositório será atualizado semanalmente conforme o andamento do curso, refletindo:
 
-Novos exercícios resolvidos
+- Novos exercícios resolvidos
 
-Melhorias em código existente
+- Melhorias em código existente
 
-Evolução na organização e arquitetura dos projetos
+- Evolução na organização e arquitetura dos projetos
