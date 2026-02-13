@@ -1,71 +1,70 @@
-# 💻 exercicios-cs50x
+# 💻 CS50x — Harvard University
 
-Repositório com as **soluções dos exercícios** do curso **“CS50’s Introduction to Computer Science”**, oferecido pela **Universidade de Harvard**.  
-Este repositório foi criado para registrar minha **evolução prática em ciência da computação**, programação e resolução de problemas ao longo do curso.
+Repositório dedicado às soluções dos problem sets do **CS50’s Introduction to Computer Science**, curso da **Universidade de Harvard** reconhecido mundialmente por sua profundidade técnica, alto rigor acadêmico e forte ênfase em resolução de problemas.
 
-------------------
+Este espaço documenta minha evolução na construção de uma base sólida em ciência da computação, engenharia de software e pensamento algorítmico — pilares essenciais para o desenvolvimento de sistemas robustos e escaláveis.
 
-## 📚 Sobre o curso
+---
 
-O CS50 é um curso introdutório de **ciência da computação**, com forte ênfase em fundamentos teóricos e aplicação prática.  
-Ao longo do curso, são abordados conceitos essenciais que formam a base para qualquer área da computação, incluindo:
+## 📚 Sobre o CS50
 
-- Lógica de programação e pensamento computacional  
-- Algoritmos e análise de eficiência  
-- Estruturas de dados fundamentais  
+O CS50 é amplamente considerado uma das formações mais completas em fundamentos da computação, combinando teoria densa com aplicação prática intensiva.
+
+Ao longo do curso, são explorados conceitos que moldam a forma como engenheiros de software pensam e constroem tecnologia:
+
+- Pensamento computacional avançado  
+- Design e análise de algoritmos  
+- Estruturas de dados e otimização  
 - Gerenciamento de memória  
-- Abstração e decomposição de problemas  
-- Depuração e boas práticas de código  
+- Abstração e modelagem de sistemas  
+- Técnicas profissionais de depuração  
+- Escrita de código eficiente e legível  
 
-Além da base teórica, o curso utiliza múltiplas linguagens e tecnologias para aplicação prática dos conceitos, como:
+Mais do que aprender linguagens, o foco está em desenvolver **raciocínio técnico e autonomia para resolver problemas complexos**.
 
-- **C** (fundamentos de baixo nível e memória)  
-- **Python** (abstração e produtividade)  
-- **SQL** (bancos de dados)  
-- **HTML, CSS e JavaScript** (desenvolvimento web)  
-- **Flask** (introdução a back-end e aplicações web)  
+---
 
-------------------
+## ⚙️ Stack e Tecnologias
 
-## 🎯 Objetivo do repositório
+Durante o curso, os conceitos são aplicados utilizando tecnologias amplamente adotadas na indústria:
 
-Este repositório tem como objetivo:
+- **C** — controle de memória e compreensão de baixo nível  
+- **Python** — produtividade e alto nível de abstração  
+- **SQL** — modelagem e manipulação de dados  
+- **HTML, CSS e JavaScript** — construção de interfaces modernas  
+- **Flask** — desenvolvimento back-end e aplicações web  
+- **Git & GitHub** — versionamento e colaboração  
 
-- Documentar minha progressão no aprendizado de **fundamentos da computação**  
-- Registrar soluções próprias para os **problem sets** do curso  
-- Consolidar conceitos de **algoritmos, estruturas de dados e programação**  
-- Servir como portfólio técnico do meu desenvolvimento em ciência da computação  
+---
 
-------------------
+## 🎯 Propósito deste repositório
 
-## 📁 Estrutura do repositório
+Este repositório foi estruturado com objetivos claros:
 
-Cada pasta `weekX/` corresponde a uma semana do curso, contendo os **problem sets** e exercícios desenvolvidos.  
-O diretório `projeto-final/` reúne o **projeto final**, no qual diversos conceitos aprendidos ao longo do curso são integrados em uma aplicação completa.
+- Consolidar uma base sólida em ciência da computação  
+- Demonstrar evolução técnica contínua  
+- Registrar soluções próprias para desafios de alta complexidade  
+- Servir como evidência prática da minha capacidade de resolver problemas reais através de código  
+
+Mais do que um registro acadêmico, este repositório representa disciplina, consistência e compromisso com excelência técnica.
+
+---
+
+## 📁 Estrutura
+
+Cada diretório representa uma etapa do curso e reúne os respectivos desafios implementados.
 
 ```plaintext
 cs50/
 ├── week0/
 │   └── scratch_project/
-```
+├── week1/
+├── week2/
+...
+└── final_project/
+````
 
-## 🛠 Tecnologias e linguagens utilizadas
-
-- C
-
-- Python
-
-- SQL
-
-- HTML
-
-- CSS
-
-- JavaScript
-
-- Flask
-
-- Git e GitHub
+O projeto final integra diversos conceitos abordados ao longo da formação, resultando em uma aplicação completa projetada do zero.
 
 ## 📈 Progresso
 
