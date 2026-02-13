@@ -1,8 +1,8 @@
-# 💻 CS50x — Harvard University
+# 💻 exercicios-cs50x
 
 Repositório dedicado às soluções dos problem sets do **CS50’s Introduction to Computer Science**, curso da **Universidade de Harvard** reconhecido mundialmente por sua profundidade técnica, alto rigor acadêmico e forte ênfase em resolução de problemas.
 
-Este espaço documenta minha evolução na construção de uma base sólida em ciência da computação, engenharia de software e pensamento algorítmico — pilares essenciais para o desenvolvimento de sistemas robustos e escaláveis.
+Este espaço documenta minha evolução na construção de uma base sólida em ciência da computação, engenharia de software e pensamento algorítmico, pilares essenciais para o desenvolvimento de sistemas robustos e escaláveis.
 
 ---
 
