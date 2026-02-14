@@ -68,7 +68,7 @@ O projeto final integra diversos conceitos abordados ao longo da formação, res
 
 ## 📈 Progresso
 
-O repositório será atualizado semanalmente conforme o andamento do curso, refletindo:
+O repositório será atualizado constantemente conforme o andamento do curso, refletindo:
 
 - Novos exercícios resolvidos
 
